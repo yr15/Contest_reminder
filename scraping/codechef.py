@@ -64,7 +64,7 @@ for container in containers:
                            print(name[0].text.strip())
 	   	               
         
-print(Dict.get('for',0) )       
+   
        
         
 	   
